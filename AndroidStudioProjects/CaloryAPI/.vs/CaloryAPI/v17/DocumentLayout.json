@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Server\\CaloryAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\controllers\\mealcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:controllers\\mealcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\dtos\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:dtos\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\dtos\\mealresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:dtos\\mealresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\services\\implementations\\mealservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:services\\implementations\\mealservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\dtos\\mealitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:dtos\\mealitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\dtos\\mealrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:dtos\\mealrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\services\\implementations\\foodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:services\\implementations\\foodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\entities\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:entities\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\dtos\\updateuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:dtos\\updateuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\dtos\\updatefooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:dtos\\updatefooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\dtos\\forgotpasswordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:dtos\\forgotpasswordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\dtos\\createfooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:dtos\\createfooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\authorization\\dynamicrolehandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:authorization\\dynamicrolehandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\authorization\\dynamicpolicyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:authorization\\dynamicpolicyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\services\\interfaces\\imealservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:services\\interfaces\\imealservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|d:\\server\\caloryapi\\services\\interfaces\\ifoodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF494F0-AC0C-4FDF-A9FD-E114C7B6F088}|CaloryAPI.csproj|solutionrelative:services\\interfaces\\ifoodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T01:31:44.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FoodController.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Controllers\\FoodController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FoodController.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Controllers\\FoodController.cs",
+              "RelativeToolTip": "Controllers\\FoodController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:18:08.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Server\\CaloryAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T01:48:25.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MealController.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Controllers\\MealController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MealController.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Controllers\\MealController.cs",
+              "RelativeToolTip": "Controllers\\MealController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:19:09.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Services\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\UserService.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Services\\Implementations\\UserService.cs",
+              "RelativeToolTip": "Services\\Implementations\\UserService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:27:36.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T01:33:32.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\LoginDto.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Dtos\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:23:29.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAD4v3oAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T01:41:39.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FoodDto.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Dtos\\FoodDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\FoodDto.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Dtos\\FoodDto.cs",
+              "RelativeToolTip": "Dtos\\FoodDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:06:38.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MealItemDto.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Dtos\\MealItemDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\MealItemDto.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Dtos\\MealItemDto.cs",
+              "RelativeToolTip": "Dtos\\MealItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:06:18.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Server\\CaloryAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T15:50:50.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T01:34:32.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MealRequestDto.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Dtos\\MealRequestDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\MealRequestDto.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Dtos\\MealRequestDto.cs",
+              "RelativeToolTip": "Dtos\\MealRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:10:26.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MealResultDto.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Dtos\\MealResultDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\MealResultDto.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Dtos\\MealResultDto.cs",
+              "RelativeToolTip": "Dtos\\MealResultDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:10:55.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MealService.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Services\\Implementations\\MealService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\MealService.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Services\\Implementations\\MealService.cs",
+              "RelativeToolTip": "Services\\Implementations\\MealService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:17:03.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FoodService.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Services\\Implementations\\FoodService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\FoodService.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Services\\Implementations\\FoodService.cs",
+              "RelativeToolTip": "Services\\Implementations\\FoodService.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwEQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:15:23.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\AuthService.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "Services\\Implementations\\AuthService.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAA9wHAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:27:08.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Food.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Entities\\Food.cs",
+              "RelativeDocumentMoniker": "Entities\\Food.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Entities\\Food.cs",
+              "RelativeToolTip": "Entities\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:01:11.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Entities\\ApplicationUser.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "Entities\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:21:57.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateUserInfo.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Dtos\\UpdateUserInfo.cs",
+              "RelativeDocumentMoniker": "Dtos\\UpdateUserInfo.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Dtos\\UpdateUserInfo.cs",
+              "RelativeToolTip": "Dtos\\UpdateUserInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:23:50.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateFoodDto.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Dtos\\UpdateFoodDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\UpdateFoodDto.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Dtos\\UpdateFoodDto.cs",
+              "RelativeToolTip": "Dtos\\UpdateFoodDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:09:56.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ResetPasswordDto.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Dtos\\ResetPasswordDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\ResetPasswordDto.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Dtos\\ResetPasswordDto.cs",
+              "RelativeToolTip": "Dtos\\ResetPasswordDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:13:47.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\RegisterDto.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "Dtos\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:23:15.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ForgotPassworDto.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Dtos\\ForgotPassworDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\ForgotPassworDto.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Dtos\\ForgotPassworDto.cs",
+              "RelativeToolTip": "Dtos\\ForgotPassworDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:24:46.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateFoodDto.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Dtos\\CreateFoodDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CreateFoodDto.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Dtos\\CreateFoodDto.cs",
+              "RelativeToolTip": "Dtos\\CreateFoodDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:07:04.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Dtos\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\ChangePasswordDto.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Dtos\\ChangePasswordDto.cs",
+              "RelativeToolTip": "Dtos\\ChangePasswordDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:24:26.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DynamicRoleHandle.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Authorization\\DynamicRoleHandle.cs",
+              "RelativeDocumentMoniker": "Authorization\\DynamicRoleHandle.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Authorization\\DynamicRoleHandle.cs",
+              "RelativeToolTip": "Authorization\\DynamicRoleHandle.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T01:30:27.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DynamicPolicyProvider.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Authorization\\DynamicPolicyProvider.cs",
+              "RelativeDocumentMoniker": "Authorization\\DynamicPolicyProvider.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Authorization\\DynamicPolicyProvider.cs",
+              "RelativeToolTip": "Authorization\\DynamicPolicyProvider.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA7wB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T01:29:16.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IMealService.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Services\\Interfaces\\IMealService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IMealService.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Services\\Interfaces\\IMealService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IMealService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:16:09.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:26:19.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:26:40.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IFoodService.cs",
+              "DocumentMoniker": "D:\\Server\\CaloryAPI\\Services\\Interfaces\\IFoodService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IFoodService.cs",
+              "ToolTip": "D:\\Server\\CaloryAPI\\Services\\Interfaces\\IFoodService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IFoodService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:15:39.869Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
